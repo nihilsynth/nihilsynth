@@ -31,6 +31,10 @@ If you're reviewing or collaborating, start here:
 ---
 If you want to review system behavior or integration quality, open an issue in `nihil-core` with concrete observations and suggested alternatives.
 
+
+## Architecture diagram
+- [Visual system overview](https://github.com/nihilsynth/nihil-core/blob/main/docs/ARCHITECTURE-DIAGRAM.md)
+
 ## Deep technical docs
 - [Capabilities showcase](https://github.com/nihilsynth/nihil-core/blob/main/docs/CAPABILITIES-SHOWCASE.md)
 - [Memory architecture (deep)](https://github.com/nihilsynth/nihil-core/blob/main/docs/MEMORY-ARCHITECTURE-DEEP.md)
